@@ -17,7 +17,7 @@ As a busy customer support representative, you don’t want to be stuck with a c
 
 Stream Chat provides the chat infrastructure for this app, as well as some basic out-of-the-box styling. Topics will be covered using Express JS and React, but the methodologies can be ported to most languages and frameworks.
 
-This post will guide you through the [Git Repository Here](https://github.com/isaidspaghetti/stream-support-dashboard). 
+This post will guide you through the [Git Repository here](https://github.com/isaidspaghetti/stream-support-dashboard). 
 
 ## Stream Configuration
 
